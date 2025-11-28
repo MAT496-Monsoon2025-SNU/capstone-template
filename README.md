@@ -77,7 +77,7 @@ Core architecture of the system:
 Plan  
 I plan to execute these steps to complete my project.
 
-[TODO] Step 1: Set up project structure and environment  
+[DONE] Step 1: Set up project structure and environment  
 - Create virtual environment and install required dependencies.  
 - Fork the MAT496 repository and create a new project folder.  
 - Add initial folder structure: src/, data/, notebooks/, docs/.  

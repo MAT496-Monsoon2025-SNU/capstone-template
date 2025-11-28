@@ -1,0 +1,19 @@
+# Core LLM + Chains
+langchain
+langchain-openai
+openai
+
+# LangGraph
+langgraph
+
+# RAG + Semantic Search
+chromadb
+tiktoken
+
+# Environment
+python-dotenv
+
+# Optional but useful for your deliverables
+python-docx
+reportlab
+
