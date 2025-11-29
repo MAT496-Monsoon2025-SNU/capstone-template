@@ -90,11 +90,11 @@ I plan to execute these steps to complete my project.
 - Build minimal StateGraph: START → coach analysis → final_report → END.  
 - Add a simple CLI runner to take input and produce output.
 
-[TODO] Step 3: Test and refine the single-coach flow  
-→ Uses: Prompting, Structured Output  
-- Test the graph with sample business descriptions.  
-- Improve the quality of responses by refining system & human prompts.  
-- Add basic structure to the output (diagnosis + recommendations).  
+[DONE] Step 3: Test and refine the single-coach flow
+→ Uses: Prompting, Structured Output, Memory (run persistence)
+- Test the graph with sample business descriptions.
+- Improve the quality of responses by refining system & human prompts.
+- Add basic structure to the output (diagnosis + recommendations). 
 
 [TODO] Step 4: Extend the graph to all three coaches  
 → Uses: Prompting, Structured Output, LangGraph (parallel multi-node flow)  
