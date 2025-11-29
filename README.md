@@ -17,7 +17,7 @@ We also learned that Langsmith is a nice tool for debugging Langgraph codes.
 
 # Capstone Project objective
 
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, we can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
+The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news.  Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
 
 
 -------------------------
@@ -83,7 +83,7 @@ I plan to execute these steps to complete my project.
 - Add initial folder structure: src/, data/, notebooks/, docs/.  
 - Create an empty main Python file (e.g., src/business_consultant_graph.py).
 
-[TODO] Step 2: Implement basic LangGraph with a single coach (no RAG)  
+[DONE] Step 2: Implement basic LangGraph with a single coach (no RAG)  
 → Uses: Prompting, LangGraph (State, Nodes, Graph)  
 - Define the LangGraph state (business_description, goal, analyses, final_report).  
 - Implement one node for a single business coach persona using a system prompt.  
