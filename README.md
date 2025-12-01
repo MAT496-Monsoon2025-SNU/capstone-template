@@ -115,7 +115,7 @@ I plan to execute these steps to complete my project.
 - Chunk into meaning-preserving segments.  
 - Save as JSON or .txt for embedding.
 
-[TODO] Step 7: Build a simple RAG pipeline  
+[DONE] Step 7: Build a simple RAG pipeline  
 → Uses: Semantic Search, Retrieval Augmented Generation (RAG)  
 - Generate embeddings for all chunks using an embedding model.  
 - Store embeddings in a vector store (e.g., FAISS).  
