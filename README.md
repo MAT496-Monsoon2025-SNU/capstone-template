@@ -64,7 +64,7 @@ I had planned to achieve {this this}. I think I have/have-not achieved the concl
 
 # Added instructions:
 
-- This is a `solo assignment`. Each of you will work alone. You are free to talk, discuss with chatgpt, but you are responsible for what you submit. Some students may be called for viva. You should be able to each and every line of work submitted by you.
+- This is a `solo assignment`. Each of you will work alone. You are free to talk, discuss with chatgpt, but you are responsible for what you submit. Some students may be called for viva. You should be able explain to each and every line of work submitted by you.
 
 - `commit` History maintenance.
   - Fork this repository and build on top of that.
